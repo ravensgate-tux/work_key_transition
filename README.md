@@ -51,7 +51,7 @@ Deathカードを「扉」として、アサメイを「鍵」として使い、
 > The door opens—not by force, but by release.
 > I pass through in silence, and the world is new.
 
-> 扉がある——黙し、封じられ、動かない。
+> （扉がある——黙し、封じられ、動かない。
 > その向こうには、私がしがみついてきたものがある。
 
 > Deathのカードを前に置く。
@@ -69,7 +69,7 @@ Deathカードを「扉」として、アサメイを「鍵」として使い、
 > この一歩とともに、新たな道を選ぶ。
 
 > 扉は力でなく、解放によって開かれる。
-> 私は沈黙の中で通り抜け、新たな世界に至る。
+> 私は沈黙の中で通り抜け、新たな世界に至る。）
 
 ## 🔚 Closing the Circle of the Work
 
