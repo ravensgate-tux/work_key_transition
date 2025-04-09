@@ -27,8 +27,7 @@ Deathカードを「扉」として、アサメイを「鍵」として使い、
 > 道の女神よ、  
 > 世界と世界の間を歩む私を導いてください。）
 
-*Draw an opening pentacle with your ritual tool. If using a wand, start from the top point to the lower left.*  
-
+*Draw an opening pentacle, starting from the top point to the lower left.*
 
 ## 🔮 Ritual
 
