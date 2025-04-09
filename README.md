@@ -33,41 +33,41 @@ Deathカードを「扉」として、アサメイを「鍵」として使い、
 
 > I see a door—silent, sealed, unmoving.
 > I know what lies behind it: something I have clung to.
-
+>
 > I place the Death card before me.
 > It stands as the lock—the ending that bars the way.
-
+>
 > In my hand, I hold the key: my athame.
-
+>
 > Hekate, Guardian of Thresholds,
 > Let me walk through what must be ended.
-
+>
 > I raise the blade and turn it in the air,
 > unlocking what I am ready to release.
-
+>
 > With this breath, I surrender what is done.
 > With this step, I claim the path ahead.
-
+>
 > The door opens—not by force, but by release.
 > I pass through in silence, and the world is new.
-
+>
 > （扉がある——黙し、封じられ、動かない。
 > その向こうには、私がしがみついてきたものがある。
-
+>
 > Deathのカードを前に置く。
 > それは道を閉ざす「錠（ロック）」——終わりの象徴である。
-
+>
 > 私の手には鍵がある。アサメイだ。
-
+>
 > 境界の守り手、ヘカテよ、
 > 終えるべきものの中を、私が通れるように。
-
+>
 > 刃を掲げ、空中でそっとまわす。
 > 私が手放すべきものを、鍵で解き放つように。
-
+>
 > この息とともに、過去を手放す。
 > この一歩とともに、新たな道を選ぶ。
-
+>
 > 扉は力でなく、解放によって開かれる。
 > 私は沈黙の中で通り抜け、新たな世界に至る。）
 
